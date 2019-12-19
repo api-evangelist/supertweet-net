@@ -1,0 +1,51 @@
+{
+    "name": "SuperTweet.net",
+    "description": "http:\/\/t.co\/TXzrqgBaWI solves a problem for microcontroller environments and other situations where direct OAuth implementation is impractical or impossible.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/489-supertweet-net.jpg",
+    "tags": [
+        "have api",
+        "social",
+        "social profiles",
+        "standards",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/supertweet-net\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SuperTweet.net",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/489-supertweet-net.jpg",
+            "humanURL": "http:\/\/www.supertweet.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/supertweet-net-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/supertweet-net-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.supertweet.net"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/supertweetnews.140plus.com\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SuperTweetNews"
+        }
+    ]
+}
